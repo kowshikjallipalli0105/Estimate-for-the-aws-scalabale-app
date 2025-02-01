@@ -17,7 +17,7 @@ In this case, I have a monthly budget of $56 and am setting up a basic infrastru
   
 A lot AWS' services have a free tier, so I went under the budget. Here is my estimated budget for the entire build using AWS Pricing Calculator:
 
-[My Estimate - AWS Pricing Calculator.pdf](capstone/Building/MyEstimate.pdf)
+[My Estimate - AWS Pricing Calculator.pdf](https://github.com/kowshikjallipalli0105/Building_a_Highly_Available_Scalable_Web_Application/blob/main/MyEstimate.pdf)
 
 ### Creating a VPC
 
