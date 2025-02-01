@@ -176,7 +176,7 @@ To know that my infrastructure was built correctly, I navigated to the EC2 conso
 ![Final Output](<Images/Final Output.png>)
 ### Final Infrastructure
 
-![Final Architecture](<Final Architecture.png>)
+![Final Architecture](https://github.com/kowshikjallipalli0105/Building_a_Highly_Available_Scalable_Web_Application/blob/main/Images/Final%20Architecture.png)
 
 **The final setup includes a scalable infrastructure with a VPC, EC2 instances in multiple availability zones, an Application Load Balancer, Auto Scaling, and a custom security group to ensure high availability and performance under varying traffic loads.**
 
